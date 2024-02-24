@@ -1,7 +1,7 @@
 # Student at La Sapienza University of Rome 
 
 ### Education
-MSc Quantitative Finance (in English)
+MSc in Quantitative Finance (in English)
 
 ### Work Experience
 Research Analyst at CERTFin (AbiLab)
